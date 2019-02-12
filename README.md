@@ -9,7 +9,7 @@ To use these extensions in Firefox, you should use the most recent release
 of Firefox. All extensions should work with Firefox v.65 and above.
 
 
-## Installing an example
+## Installing an extension
 
 Open Firefox and navigate to `about:debugging` using the URL bar. Click the [Load Temporary Add-on](https://www.youtube.com/watch?v=cer9EUKegG4)
 button and select the `manifest.json` file within the directory of an example extension you'd like to install. Note the video shows selecting the '.js' file instead of 'manifest.json'.
