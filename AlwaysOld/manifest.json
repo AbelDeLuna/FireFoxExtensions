@@ -1,7 +1,7 @@
 
 {
     "manifest_version": 2,
-    "name": "AlwaysOldReddit",
+    "name": "AlwaysOld",
     "version": "1.0",
   
     "description": "Reloads the reddit page to open as old.reddit.com",
