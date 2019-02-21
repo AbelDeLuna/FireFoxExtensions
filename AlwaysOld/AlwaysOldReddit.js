@@ -1,6 +1,6 @@
 chrome.webRequest.onBeforeRequest.addListener(
   function(details) {
-    return {     
+    return {
       redirectUrl:
         details.url.replace("www.", "old.")
     };

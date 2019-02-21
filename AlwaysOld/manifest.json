@@ -1,10 +1,9 @@
-
 {
     "manifest_version": 2,
     "name": "Always Old Reddit",
     "version": "1.0",
     "description": "Redirects reddit pages to always load as 'old.reddit.com'",
-  
+    "background": {"scripts":["AlwaysOldReddit.js"]},
     "icons": {
       "32": "icons/icon32x32.png"
     },
